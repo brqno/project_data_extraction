@@ -2,6 +2,11 @@
 
 Este projeto conecta-se a um banco de dados SQL Server, extrai dados de funcionários, vendas e produtos, e salva o resultado em um arquivo Excel dentro da pasta `extract/file_xlsx`. A partir deste resultado, é feita a análise no Dashboard em Power BI.
 
+<img width="1314" height="735" alt="Power BI Desktop 13_08_2026 18_58_55" src="https://github.com/user-attachments/assets/8a9abec4-1c1b-4708-b299-7b2ef9be1016" />
+<img width="1317" height="731" alt="Power BI Desktop 13_08_2026 18_59_14" src="https://github.com/user-attachments/assets/95128cdb-ed4a-471d-b91e-e9831e70b23b" />
+
+
+
 ## Estrutura do projeto
 
 - `db_config/`: scripts SQL para criação do banco e das views utilizadas
