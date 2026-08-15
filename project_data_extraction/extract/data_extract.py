@@ -4,7 +4,7 @@ from pathlib import Path
 
 conn_str = (
     r'Driver={ODBC Driver 18 for SQL Server};'
-    r'Server=DESKTOP-DUBDQD2;'
+    r'Server=;'
     r'Database=EMPRESA_DB;'
     r'Trusted_Connection=yes;'
     r'TrustServerCertificate=yes;' 
